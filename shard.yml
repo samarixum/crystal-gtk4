@@ -1,0 +1,17 @@
+name: crystal-gtk4
+version: 0.0.1
+
+authors:
+    - Nill≠Null <66809702+samarixum@users.noreply.github.com>
+
+targets:
+    crystal-gtk4:
+        main: src/crystal-gtk4.cr
+
+dependencies:
+    gtk4:
+        github: hugopl/gtk4.cr
+
+crystal: '>= 1.14.0'
+
+license:
