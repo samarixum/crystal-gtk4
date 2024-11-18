@@ -4,3 +4,8 @@
 /.shards/
 *.dwarf
 /.history/
+/ignore/
+.DS_Store
+*.DS_Store
+**/*.DS_Store/
+
